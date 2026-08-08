@@ -40,7 +40,7 @@ export function WishMessage() {
   }, []);
 
   return (
-    <div className="size-full flex items-center justify-center relative overflow-hidden bg-gradient-to-br from-pink-100 via-rose-50 to-pink-200 min-h-screen">
+    <div className="size-full flex items-center justify-center relative overflow-hidden bg-[#b793d2] min-h-screen">
       <div className="absolute inset-0 overflow-hidden pointer-events-none">
         {decorations.map((dec, idx) => {
           const { Icon, color, size, delay, ...positions } = dec;
