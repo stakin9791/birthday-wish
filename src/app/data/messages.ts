@@ -11,7 +11,7 @@ export const INTRO_MESSAGES = {
 /* ---- PUZZLE GAME TEXT ---- */
 export const PUZZLE_MESSAGES = {
   title: '💕 Mend the Heart 💕',
-  instruction1: 'Drag the left and right heart pieces into the center box',
+  instruction1: 'Hold and drag the left and right heart pieces into the center box',
   instruction2: 'Connect them together to unlock your birthday surprise! 🎁',
   hint: 'Left piece goes on the left, right piece goes on the right',
 };
@@ -32,6 +32,8 @@ export const WISH_MESSAGES = [
   "Ne nenacha ellam unaku kedaikanum nu un purushan prayer pannuren..🪄🪄",
   "Roses are red, skies are blue.. I just wanna say Happy Birthday to you <3...",
   "Hope your birthday lights up with dreams and stars...",
+  "No matter how old you get, you'll always be my little princess...",
+  "I LOVE YOUUUU.....💘💕En chella pillaaaaa....💞💞"
 ];
 // Deprecated: do not export a component from data file. Keep data exports only.
 
